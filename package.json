@@ -1,0 +1,8 @@
+{
+  "name": "home-cooked-audio-bytes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CrockAgile/home-cooked-audio-bytes.git",
+  "author": "Jeffrey Crocker <jeff@anchor.fm>",
+  "license": "MIT"
+}
